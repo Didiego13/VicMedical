@@ -11,7 +11,7 @@
           </center>
 
           <div class="card-body">
-            <h4 class="card-title">PRUEBA {{ $adminData->name }}</h4>
+            <h4 class="card-title">PRUEBA 2 {{ $adminData->name }}</h4>
             <hr>
             <h4 class="card-title">Correo : {{ $adminData->email }} </h4>
             <hr>
